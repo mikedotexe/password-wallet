@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,MACI,aAAc,CACd,+BACJ,CAEA,yBAEI,eACJ","file":"style.c404bdcb.css","sourceRoot":"..","sourcesContent":["label {\n    display: block;\n    font: .9rem 'Fira Sans', sans-serif;\n}\n\ninput[type='submit'],\nlabel {\n    margin-top: 1rem;\n}\n"]}

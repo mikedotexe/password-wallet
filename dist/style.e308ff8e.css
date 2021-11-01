@@ -1,0 +1,12 @@
+label {
+    display: block;
+    font: .9rem 'Fira Sans', sans-serif;
+}
+
+input[type='submit'],
+label {
+    margin-top: 1rem;
+}
+
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
